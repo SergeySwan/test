@@ -1,7 +1,5 @@
-# Решение задания 2
+# Ignore all .pyc files
+*.pyc
 
-## Шаги выполнения
-
-1. Создан файл `.gitignore`:
-   ```bash
-   touch .gitignore
+# Ignore all files in the cache directory
+cache/
