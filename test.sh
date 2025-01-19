@@ -3,3 +3,4 @@
 "echo 'This is a test script.'" 
 "echo 'Another update to the script.'" 
 echo "This is a test script." 
+echo "Another update to the script." 
