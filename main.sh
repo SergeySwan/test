@@ -1,2 +1,2 @@
-#!/bin/bash
-echo 'Main script running...'
+#!/bin/bash 
+echo "Main script running..." 
